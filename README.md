@@ -14,7 +14,7 @@ Here is the breakdown:
           `
 [Repl Live Demo Link](https://replit.com/@smithnkereuwem/VibrantRightSeahorse#index.js)
         
- # - Question 3 - Most Probable Sum of a numbers 1, 2, 4, 8 ... 64 chosen randomly:
+ # - Question 3 - Most probable sum of numbers 1, 2, 4, 8 ... 64 chosen randomly:
        For this programme, the user selects a card at random and until the sum of the cards in their hands is > 124. We then have to repeat this selecting and addition process a couple of times to get the most probable sum. This programme accomplishes exactly that, in Node JS also. You can setup the local Node JS environment to test it, or you can just use to Repl link to get a feel of how it works.
        How to setup locally:
           `
