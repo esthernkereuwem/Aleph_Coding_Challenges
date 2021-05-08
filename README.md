@@ -1,5 +1,5 @@
 # Aleph_Coding_Challenges
-I solved this challenges as part of my entries to the 2021 Aleph fellowship program. I love science and technology, and I am proud of all I learned working on these. 
+I solved these challenges as part of my entries to the 2021 Aleph fellowship program. I love science and technology, and I am proud of all I learned working on these. 
 Both projects are written in Node Js. So you would need a Node environment to run both of them. You can also checkout the Repl.it links to run both of them instantly in the browser. 
 
 Here is the breakdown:
